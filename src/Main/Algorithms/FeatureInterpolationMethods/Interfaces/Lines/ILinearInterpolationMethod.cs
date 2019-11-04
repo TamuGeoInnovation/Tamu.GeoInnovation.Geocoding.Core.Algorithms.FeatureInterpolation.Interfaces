@@ -6,10 +6,10 @@ namespace USC.GISResearchLab.Geocoding.Core.Algorithms.FeatureInterpolationMetho
     public interface ILinearInterpolationMethod : IInterpolationMethod
     {
         #region Properties
-        
+
         LinearUnitTypes DropbackUnits { get; set; }
         double DropbackValue { get; set; }
-        
+
         #endregion
 
         //new Geocode Geocode(ParameterSet parameterSet);

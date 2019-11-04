@@ -1,6 +1,6 @@
+using System.Diagnostics;
 using USC.GISResearchLab.Common.Core.Geocoders.FeatureMatching;
 using USC.GISResearchLab.Geocoding.Core.Queries.Parameters;
-using System.Diagnostics;
 
 namespace USC.GISResearchLab.Geocoding.Core.Algorithms.FeatureInterpolationMethods.Interfaces
 {
